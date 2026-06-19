@@ -14,9 +14,9 @@
 ## Скриншоты
 
 <p align="center">
-  <img src="docs/screenshots/home.jpg" alt="Главный экран" width="280" />
+  <img src="screenshot-home.jpg" alt="Главный экран" width="280" />
   &nbsp;&nbsp;
-  <img src="docs/screenshots/events.jpg" alt="Мероприятия — участие" width="280" />
+  <img src="screenshot-events.jpg" alt="Мероприятия — участие" width="280" />
 </p>
 
 ## Основные разделы
