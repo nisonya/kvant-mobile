@@ -14,20 +14,9 @@
 ## Скриншоты
 
 <p align="center">
-  <img src="docs/screenshots/home.png" alt="Главный экран" width="260" />
+  <img src="docs/screenshots/home.jpg" alt="Главный экран" width="280" />
   &nbsp;&nbsp;
-  <img src="docs/screenshots/events.png" alt="Мероприятия" width="260" />
-</p>
-<p align="center">
-  <img src="docs/screenshots/notifications.png" alt="Напоминания" width="260" />
-  &nbsp;&nbsp;
-  <img src="docs/screenshots/profile.png" alt="Профиль" width="260" />
-</p>
-
-<p align="center">
-  <img src="docs/screenshots/home-dark.png" alt="Главный экран (тёмная тема)" width="260" />
-  &nbsp;&nbsp;
-  <img src="docs/screenshots/events-detail.png" alt="Карточка мероприятия" width="260" />
+  <img src="docs/screenshots/events.jpg" alt="Мероприятия — участие" width="280" />
 </p>
 
 ## Основные разделы
