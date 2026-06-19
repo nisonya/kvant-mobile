@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kvantroium</string>
+    <string name="notification_channel_events">Напоминания о мероприятиях</string>
+    <string name="notification_channel_events_desc">Уведомления о мероприятиях, где вы ответственный</string>
+</resources>

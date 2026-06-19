@@ -1,0 +1,28 @@
+*.iml
+.gradle
+local.properties
+.DS_Store
+Thumbs.db
+Desktop.ini
+.cursor/
+
+# Android Studio
+.idea/
+
+# Build outputs
+/build
+app/build/
+app/release/
+/captures
+.externalNativeBuild
+.cxx
+
+# APK / AAB
+*.apk
+*.aab
+
+# Signing keys
+*.jks
+*.keystore
+keystore.properties
+signing.properties
