@@ -34,35 +34,6 @@
 - **Утром (10:00–16:59):** push о сегодняшних и завтрашних мероприятиях (организация и участие; для участия — только если не отмечено «Участвовал»)
 - **Вечером (17:00+):** push только о завтрашних
 - **Постоянно:** новые мероприятия, где пользователь стал ответственным
-- Работа в фоне через WorkManager; защита от дублей по ключам дедупликации
-
-## Технологии
-
-- **Kotlin**, **Jetpack Compose**, **Material 3**
-- **WorkManager** — фоновые проверки
-- **Encrypted SharedPreferences** — сессия и настройки
-- REST API Kvant Server (JSON, Bearer/cookie)
-- minSdk 24, targetSdk 36
-
-## Сборка
-
-```powershell
-.\gradlew.bat assembleDebug
-```
-
-Готовый APK:
-
-```
-app/build/outputs/apk/debug/app-debug.apk
-```
-
-Для release-сборки используйте **Build → Generate Signed Bundle / APK** в Android Studio.
-
-## Требования
-
-- Android Studio (актуальная версия с поддержкой compileSdk 36)
-- JDK 11+
-- Настроенный `local.properties` с путём к Android SDK
 
 ## Связанные репозитории
 
